@@ -1,2 +1,3 @@
-# media-kit
-Assets for Evidence.dev
+# Media Kit
+
+Assets for [Evidence](www.evidence.dev)
