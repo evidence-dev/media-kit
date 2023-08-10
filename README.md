@@ -1,3 +1,3 @@
 # Media Kit
 
-Assets for [Evidence](www.evidence.dev)
+Assets for [Evidence](http://www.evidence.dev)
