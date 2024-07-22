@@ -1,10 +1,12 @@
+![Evidence Logo](/png/wordmark-gray-800.png)
+
 # Media Kit
 
-Assets for [Evidence](http://www.evidence.dev)
+Assets in [PNG](/png) and [SVG](/svg) format for [Evidence](http://www.evidence.dev).
 
 ## Favicons
 
-To use the favicon files, include the following snipped in your HTML:
+To use the favicon files, include the following snippet in your HTML:
 
 ```html
 <!DOCTYPE html>
